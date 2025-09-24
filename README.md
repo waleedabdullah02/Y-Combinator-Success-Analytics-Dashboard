@@ -1,17 +1,17 @@
-# 📊 Y Combinator Success Analytics Dashboard
+#  Y Combinator Success Analytics Dashboard
 
 ## Dashboard Preview
 <img width="909" height="511" alt="home page" src="https://github.com/user-attachments/assets/10405cd2-32e3-423f-83b1-2a5514fd279c" /><img width="906" height="508" alt="market" src="https://github.com/user-attachments/assets/a84522e1-1abe-45eb-b789-db20c879e29c" />
 
 <img width="887" height="496" alt="success insights" src="https://github.com/user-attachments/assets/4ec7ea05-b5ad-4111-a8fd-941ea4637844" />
 
-## 🚀 Project Overview
+##  Project Overview
 This project provides a comprehensive analysis of **Y Combinator's startup ecosystem**, examining **5,407 companies across 20 years (2005–2025)** to identify success patterns, industry trends, and key performance indicators.  
 Through **interactive Power BI dashboards**, the analysis reveals critical insights about startup success rates, industry performance, and the evolution of the world’s most successful startup accelerator program.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 ### Primary Goals
 - Analyze startup success patterns across Y Combinator’s entire portfolio  
@@ -21,14 +21,14 @@ Through **interactive Power BI dashboards**, the analysis reveals critical insig
 - Create interactive visualizations for stakeholder decision-making support  
 
 ### Success Metrics
-- ✅ Comprehensive analysis of **5,407+ company records**  
-- ✅ Multi-dimensional dashboard with **15+ interactive visualizations**  
-- ✅ **98.5%** data completeness and accuracy achieved  
-- ✅ Actionable insights for multiple stakeholder groups  
+-  Comprehensive analysis of **5,407+ company records**  
+-  Multi-dimensional dashboard with **15+ interactive visualizations**  
+-  **98.5%** data completeness and accuracy achieved  
+-  Actionable insights for multiple stakeholder groups  
 
 ---
 
-## 📂 Data Description and ERD
+##  Data Description and ERD
 <img width="607" height="519" alt="BRD" src="https://github.com/user-attachments/assets/76590929-b06e-4e21-b223-5ea073d66832" />
 
 **Dataset Overview**
@@ -52,7 +52,7 @@ Through **interactive Power BI dashboards**, the analysis reveals critical insig
 
 ---
 
-### 🔑 Insights from the Dashboard
+### Insights from the Dashboard
 
 ---
 
@@ -79,7 +79,7 @@ Through **interactive Power BI dashboards**, the analysis reveals critical insig
 
 ---
 
-## 💡 Business Value
+##  Business Value
 
 ### For Entrepreneurs
 - **Industry Selection:** Real Estate & B2B best probability  
@@ -100,7 +100,7 @@ Through **interactive Power BI dashboards**, the analysis reveals critical insig
 
 ---
 
-## 📈 Tools & Tech
+##  Tools & Tech
 
 - **Data Processing** → Excel, Power Query, Statistical Analysis, MySQL (data validation & KPI verification)  
 - **Visualization** → Power BI Desktop, DAX, Power BI Service  
@@ -114,7 +114,7 @@ Through **interactive Power BI dashboards**, the analysis reveals critical insig
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Power BI Desktop (latest version)  
